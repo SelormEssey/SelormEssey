@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @SelormEssey
-- 👀 I’m interested in Computer Science and Data Science
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any type of project
-- 📫 How to reach me sessey100@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m **Selorm Essey**
 
-<!---
-SelormEssey/SelormEssey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an aspiring **Tech Lead** and **Software Engineer** with a focus on creating and managing large-scale distributed systems. My interests include **Cloud Computing**, **AI Models, LLM and Chatbots**, and **Cloud Computing**.
+
+## 🚀 Technical Skills
+- **Programming Languages:** C++, JavaScript, Python, Java, MySQL, CSS, R
+- **Specialties:** Cloud Computing, Collaboration, Object-Oriented Programming, Version Control
+
+## 🌱 Currently Learning
+I’m actively enhancing my skills in **Computer Science**, **Data Science**, **Mathematics** and exploring cutting-edge technologies.
+
+## 💞️ Collaboration
+I’m keen to collaborate on innovative projects. Feel free to connect if you’re interested in working together!
+
+## 📫 Contact
+Reach me at: [sesey100@gmail.com](mailto:sesey100@gmail.com)
+
+
+---
+
+Explore my repositories and let’s create something amazing together!
