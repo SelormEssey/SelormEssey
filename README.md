@@ -7,7 +7,7 @@ I’m an aspiring **Software Engineer** with a focus on creating and managing la
 - **Specialties:** Cloud Computing, Collaboration, Object-Oriented Programming, Version Control
 
 ## 🌱 Currently Learning
-CS and Data Science @ The College of Wooster (Grad. May, 2027)
+CS and Data Science @ The College of Wooster (Grad. May, 2026)
 
 I’m actively enhancing my skills in **Computer Science**, **Data Science**, **Mathematics** and exploring cutting-edge technologies.
 
