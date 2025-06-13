@@ -1,23 +1,78 @@
-# 👋 Hi, I’m **Selorm Essey**
+# SelormEssey/README.md
 
-I’m an aspiring **Software Engineer** with a focus on creating and managing large-scale distributed systems. My interests include **Cloud Computing**, **AI Models, LLM and Chatbots**, and **Cloud Computing**.
+## 👋 Hi, I’m Selorm Essey
 
-## 🚀 Technical Skills
-- **Programming Languages:** C++, JavaScript, Python, Java, MySQL, CSS, R
-- **Specialties:** Cloud Computing, Collaboration, Object-Oriented Programming, Version Control
-
-## 🌱 Currently Learning
-CS and Data Science @ The College of Wooster (Grad. May, 2026)
-
-I’m actively enhancing my skills in **Computer Science**, **Data Science**, **Mathematics** and exploring cutting-edge technologies.
-
-## 💞️ Collaboration
-I’m keen to collaborate on innovative projects. Feel free to connect if you’re interested in working together!
-
-## 📫 Contact
-Reach me at: [sesey100@gmail.com](mailto:sesey100@gmail.com)
-
+### Computer Science + Data Science @ The College of Wooster (Class of 2026)  
+**Aspiring Software Engineer • Cloud Enthusiast • AI Explorer**
 
 ---
 
-Explore my repositories and let’s create something amazing together!
+- 🔭 **Current Focus:**  
+  Designing scalable, real-time systems with Flutter + Firebase, building AI-powered apps, and tackling real-world challenges like road safety in Ghana through tech.
+  
+- 💡 Founder of **A.F.R.O Byte**, a platform focused on accessible, inclusive CS education and community empowerment across Africa.
+
+- 🌍 Actively building **Trafipal** — a Waze-like app tailored for Ghana, blending crowdsourced traffic data, GPS, AI voice guidance, and SOS alerts to promote safer driving.
+
+- 🧠 Passionate about LLMs, AI reasoning, ethical tech, and behavioral analytics.
+
+- 🛠️ Bridging the gap between **Cloud Computing**, **Software Engineering**, and **Social Impact**.
+
+---
+
+## 🧰 Languages, Tools & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Operating Systems (CS 212): Threads, concurrency, performance tuning  
+- Firebase Authentication + Google Maps SDK (Flutter Web/Mobile)  
+- AI research pipelines, API testing with Postman, LLM benchmark testing  
+- User-centered design and platform accessibility (esp. in African contexts)
+
+---
+
+## 💞️ Collaboration
+
+Interested in working on ethical AI, community-driven apps, educational platforms, or open-source CS tools? Let’s collaborate and build something meaningful.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [sesey100@gmail.com](mailto:sesey100@gmail.com)  
+- 🌐 Portfolio: [Coming Soon]  
+- 💼 LinkedIn: [linkedin.com/in/selormessey](https://linkedin.com/in/selormessey)
+
+---
+
+## 📊 Most Used Languages
+
+![Selorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&theme=tokyonight&langs_count=10)
+
+---
+
+## 🧪 Projects I'm Proud Of
+
+- **🔗 Trafipal:** Crowdsourced traffic + safety app for Ghana  
+- **📚 A.F.R.O Byte:** CS learning and support platform for underrepresented students  
+- **📦 URL Shortener:** Lightweight service with unique ID generation + usage stats  
+- **🤖 LLM Tester:** Internal tool for testing reasoning, performance, and API behavior of chatbots
+
+---
+
+> “Build for people. Build with purpose. Let code carry community.”
