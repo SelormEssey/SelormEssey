@@ -55,7 +55,6 @@ Interested in working on ethical AI, community-driven apps, educational platform
 ## 📬 Contact
 
 - 📧 Email: [sesey100@gmail.com](mailto:sesey100@gmail.com)  
-- 🌐 Portfolio: [Coming Soon]  
 - 💼 LinkedIn: [linkedin.com/in/selormessey](https://linkedin.com/in/selormessey)
 
 ---
