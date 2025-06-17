@@ -66,7 +66,7 @@ Interested in working on ethical AI, community-driven apps, educational platform
 ---
 
 ## 🧪 Projects I'm Proud Of
-
+- **🛡️ ScamRadar:** Crowdsourced + AI-driven platform to detect and report MoMo, social media, and web scams in Ghana
 - **🔗 Trafipal:** Crowdsourced traffic + safety app for Ghana  
 - **📚 A.F.R.O Byte:** CS learning and support platform for underrepresented students  
 - **📦 URL Shortener:** Lightweight service with unique ID generation + usage stats  
