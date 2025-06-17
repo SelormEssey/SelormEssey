@@ -61,7 +61,7 @@ Interested in working on ethical AI, community-driven apps, educational platform
 
 ## 📊 Most Used Languages
 
-![Selorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&theme=tokyonight&langs_count=15)
+![Selorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&theme=tokyonight&langs_count=7)
 
 ---
 
