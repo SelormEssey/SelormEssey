@@ -1,24 +1,18 @@
 # SelormEssey/README.md
 
-## 👋 Hi, I’m Selorm Essey
+## I’m Selorm Essey
 
 ### Computer Science + Data Science @ The College of Wooster (Class of 2026)  
 **Aspiring Software Engineer • Cloud Enthusiast • AI Explorer**
 
 ---
 
-- 🔭 **Current Focus:**  
-  Designing scalable, real-time systems with Flutter + Firebase, building AI-powered apps, and tackling real-world challenges like road safety in Ghana through tech.
-  
-- 💡 Founder of **A.F.R.O Byte**, a platform focused on accessible, inclusive CS education and community empowerment across Africa.
+-  **Current Focus:**  My current focus is developing **Momentum AI**, a system that detects early signals of emerging trends across platforms using real-time data analysis.
 
 - 🌍 Actively building **Trafipal** — a Waze-like app tailored for Ghana, blending crowdsourced traffic data, GPS, AI voice guidance, and SOS alerts to promote safer driving.
 
-- 🧠 Passionate about LLMs, AI reasoning, ethical tech, and behavioral analytics.
-
 - 🛠️ Bridging the gap between **Cloud Computing**, **Software Engineering**, and **Social Impact**.
 
----
 
 ## 🧰 Languages, Tools & Frameworks
 
