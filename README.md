@@ -31,12 +31,6 @@
 
 ---
 
-##  Currently Learning
-
-- Advanced Operating Systems (CS 212): Threads, concurrency, performance tuning  
-- Firebase Authentication + Google Maps SDK (Flutter Web/Mobile)  
-- AI research pipelines, API testing with Postman, LLM benchmark testing  
-- User-centered design and platform accessibility (esp. in African contexts)
 
 ---
 
@@ -56,15 +50,3 @@ Interested in working on ethical AI, community-driven apps, educational platform
 ## 📊 Most Used Languages
 
 ![Selorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&theme=tokyonight&langs_count=7)
-
----
-
-## 🧪 Projects I'm Proud Of
-- **ScamRadar:** Crowdsourced + AI-driven platform to detect and report MoMo, social media, and web scams in Ghana
-- **Trafipal:** Crowdsourced traffic + safety app for Ghana  
-- **A.F.R.O Byte:** CS learning and support platform for underrepresented students  
-- **URL Shortener:** Lightweight service with unique ID generation + usage stats  
-
----
-
-> “Build for people. Build with purpose. Let code carry community.”
