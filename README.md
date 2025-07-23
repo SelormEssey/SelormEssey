@@ -9,12 +9,12 @@
 
 -  **Current Focus:**  My current focus is developing **Momentum AI**, a system that detects early signals of emerging trends across platforms using real-time data analysis.
 
-- 🌍 Actively building **Trafipal** — a Waze-like app tailored for Ghana, blending crowdsourced traffic data, GPS, AI voice guidance, and SOS alerts to promote safer driving.
+-  Actively building **Trafipal** — a Waze-like app tailored for Ghana, blending crowdsourced traffic data, GPS, AI voice guidance, and SOS alerts to promote safer driving.
 
-- 🛠️ Bridging the gap between **Cloud Computing**, **Software Engineering**, and **Social Impact**.
+-  Bridging the gap between **Cloud Computing**, **Software Engineering**, and **Social Impact**.
 
 
-## 🧰 Languages, Tools & Frameworks
+##  Languages, Tools & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced Operating Systems (CS 212): Threads, concurrency, performance tuning  
 - Firebase Authentication + Google Maps SDK (Flutter Web/Mobile)  
@@ -40,13 +40,13 @@
 
 ---
 
-## 💞️ Collaboration
+##  Collaboration
 
 Interested in working on ethical AI, community-driven apps, educational platforms, or open-source CS tools? Let’s collaborate and build something meaningful.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - 📧 Email: [sesey100@gmail.com](mailto:sessey100@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/selormessey](https://linkedin.com/in/selormessey)
@@ -60,11 +60,10 @@ Interested in working on ethical AI, community-driven apps, educational platform
 ---
 
 ## 🧪 Projects I'm Proud Of
-- **🛡️ ScamRadar:** Crowdsourced + AI-driven platform to detect and report MoMo, social media, and web scams in Ghana
-- **🔗 Trafipal:** Crowdsourced traffic + safety app for Ghana  
-- **📚 A.F.R.O Byte:** CS learning and support platform for underrepresented students  
-- **📦 URL Shortener:** Lightweight service with unique ID generation + usage stats  
-- **🤖 LLM Tester:** Internal tool for testing reasoning, performance, and API behavior of chatbots
+- ** ScamRadar:** Crowdsourced + AI-driven platform to detect and report MoMo, social media, and web scams in Ghana
+- ** Trafipal:** Crowdsourced traffic + safety app for Ghana  
+- ** A.F.R.O Byte:** CS learning and support platform for underrepresented students  
+- ** URL Shortener:** Lightweight service with unique ID generation + usage stats  
 
 ---
 
