@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Selorm 👋🏾
 
 I'm an **M.S. Computer Science student at Emory University** interested in software engineering, AI, data, and lately, **Human-Computer Interaction (HCI)**.
@@ -38,7 +37,7 @@ Currently learning more about Human-Computer Interaction, especially how people 
 
 ### Tech I work with
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart,flutter,firebase,mysql,git,github" />
 </p>
 
@@ -50,6 +49,7 @@ Currently learning more about Human-Computer Interaction, especially how people 
 
 <details>
 <summary><b>📊 GitHub stats</b></summary>
+
 <br>
 
 ![Selorm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelormEssey&show_icons=true&hide_border=true)
@@ -63,7 +63,11 @@ Currently learning more about Human-Computer Interaction, especially how people 
 ### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Selorm%20Essey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/selormessey)
+
 [![GitHub](https://img.shields.io/badge/GitHub-SelormEssey-181717?style=flat&logo=github&logoColor=white)](https://github.com/SelormEssey)
 
+📧 [sessey100@gmail.com](mailto:sessey100@gmail.com)
+
+---
+
 Always down to talk about interesting software, AI, HCI, music-tech, or open-source projects.
-```
