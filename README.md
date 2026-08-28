@@ -1,52 +1,69 @@
-# SelormEssey/README.md
+```markdown
+# Hey, I'm Selorm 👋🏾
 
-## I’m Selorm Essey
+I'm an **M.S. Computer Science student at Emory University** interested in software engineering, AI, data, and lately, **Human-Computer Interaction (HCI)**.
 
-### Computer Science + Data Science @ The College of Wooster (Class of 2026)  
-**Aspiring Software Engineer • Cloud Enthusiast • AI Explorer**
+I like building things that sit somewhere between good engineering and actual usefulness. Most of my work has involved machine learning, backend systems, data analysis, and applications built around real-world problems.
+
+Right now, I'm especially interested in how **software, AI, and user experience** come together.
 
 ---
 
--  **Current Focus:**  My current focus is developing **Momentum AI**, a system that detects early signals of emerging trends across platforms using real-time data analysis.
+### What I'm working on
 
--  Actively building **Trafipal** — a Waze-like app tailored for Ghana, blending crowdsourced traffic data, GPS, AI voice guidance, and SOS alerts to promote safer driving.
+🚦 **Trafipal**  
+A traffic and road-safety app built with Ghana in mind. Think crowdsourced traffic reports, GPS, SOS alerts, and smarter ways to navigate everyday road conditions.
 
--  Bridging the gap between **Cloud Computing**, **Software Engineering**, and **Social Impact**.
+📈 **Momentum AI**  
+A machine learning project exploring cryptocurrency forecasting using price data, sentiment analysis, and time-series models.
 
+🧠 **HCI + AI**  
+Currently learning more about Human-Computer Interaction, especially how people interact with intelligent systems and how better design can make technology more useful.
 
-##  Languages, Tools & Frameworks
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+### Things I'm into
+
+- Software engineering
+- Backend development
+- Machine learning
+- Human-Computer Interaction
+- Data science
+- Cloud computing
+- Fintech
+- Music + technology
+- Building products people actually use
+
+---
+
+### Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart,flutter,firebase,mysql,git,github" />
 </p>
 
----
+`Python` `Java` `C++` `JavaScript` `Dart` `SQL` `R`
 
-
----
-
-##  Collaboration
-
-Interested in working on ethical AI, community-driven apps, educational platforms, or open-source CS tools? Let’s collaborate and build something meaningful.
+`Flutter` `Firebase` `REST APIs` `Git` `GitHub` `TensorFlow` `Pandas`
 
 ---
 
-##  Contact
+<details>
+<summary><b>📊 GitHub stats</b></summary>
+<br>
 
-- 📧 Email: [sesey100@gmail.com](mailto:sessey100@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/selormessey](https://linkedin.com/in/selormessey)
+![Selorm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelormEssey&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&hide_border=true&langs_count=8)
+
+</details>
 
 ---
 
-## 📊 Most Used Languages
+### Find me
 
-![Selorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelormEssey&layout=compact&theme=tokyonight&langs_count=7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selorm%20Essey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/selormessey)
+[![GitHub](https://img.shields.io/badge/GitHub-SelormEssey-181717?style=flat&logo=github&logoColor=white)](https://github.com/SelormEssey)
+
+Always down to talk about interesting software, AI, HCI, music-tech, or open-source projects.
+```
