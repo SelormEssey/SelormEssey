@@ -1,10 +1,12 @@
 # Hey, I'm Selorm 👋🏾
 
-I'm an **M.S. Computer Science student at Emory University** interested in software engineering, AI, data, and lately, **Human-Computer Interaction (HCI)**.
+I'm an **M.S. Computer Science student at Emory University** interested in building software, working with data, and understanding how people interact with technology.
 
-I like building things that sit somewhere between good engineering and actual usefulness. Most of my work has involved machine learning, backend systems, data analysis, and applications built around real-world problems.
+Right now, I'm exploring **front-end development, back-end development, data science, and Human-Computer Interaction (HCI)** to get a better sense of where my interests and strengths fit best. I'm especially drawn to work that combines technical problem-solving with products that people actually use.
 
-Right now, I'm especially interested in how **software, AI, and user experience** come together.
+Most of my experience so far has been across **software engineering, machine learning, data analysis, and applied research**, with projects involving financial forecasting, NLP, transportation technology, and full-stack applications.
+
+I'm also interested in how these areas connect with industries I already care about, especially **fintech, music, entertainment, and technology**.
 
 ---
 
@@ -21,13 +23,26 @@ Currently learning more about Human-Computer Interaction, especially how people 
 
 ---
 
+### Roles I'm exploring
+
+- Front-End Developer
+- Full-Stack Developer
+- Back-End Developer
+- Software Engineer, Platform / APIs
+- Data Scientist
+- Machine Learning Engineer
+- HCI / User-Centered Technology roles
+
+---
+
 ### Things I'm into
 
 - Software engineering
-- Backend development
+- Front-end development
+- Back-end development
 - Machine learning
-- Human-Computer Interaction
 - Data science
+- Human-Computer Interaction
 - Cloud computing
 - Fintech
 - Music + technology
