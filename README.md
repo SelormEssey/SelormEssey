@@ -17,7 +17,6 @@ My current interests are **Human-Computer Interaction (HCI), AI & Data Science, 
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/selormessey/) ·
-[Portfolio](https://selormessey.github.io/)
 
 ## Tech Stack
 
