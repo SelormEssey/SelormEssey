@@ -18,3 +18,16 @@ My current interests are **Human-Computer Interaction (HCI), AI & Data Science, 
 
 [LinkedIn](https://www.linkedin.com/in/selormessey/) ·
 [Portfolio](https://selormessey.github.io/)
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,ts,react,flask,fastapi,tensorflow,git,github,aws,linux" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SelormEssey&theme=github-dark-blue&hide_border=true"
+    alt="Selorm's GitHub streak"
+  />
+</p>
