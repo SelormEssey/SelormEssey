@@ -1,32 +1,30 @@
 # Hey, I'm Selorm 👋🏾
 
-I'm an M.S. Computer Science student at Emory University interested in building intelligent, human-centered technology.
+building human-centered technology.  
+working with data and intelligent systems.  
+exploring how technology is changing finance.  
+occasionally making music when I'm not debugging something.
 
-My current interests are **Human-Computer Interaction (HCI), AI & Data Science, and Fintech**.
+[LinkedIn](https://www.linkedin.com/in/selormessey/) · [Email](mailto:sessey100@gmail.com)
 
-## 🧰 Toolbox
+---
 
-**Languages:** Python · Java · C++ · SQL · R
+## What I'm interested in
 
-**AI & Data:** Pandas · NumPy · scikit-learn · TensorFlow · Jupyter
+**Human-Computer Interaction** · **AI & Data Science** · **Fintech**
 
-**Development:** React · FastAPI · Flask · REST APIs
+I’m especially interested in where these areas overlap, from intelligent interfaces to data-driven financial products.
 
-**Tools:** Git · GitHub · AWS · Tableau · Linux
+## Tools I use
 
-## 🔗 Connect
+**Languages**  
+Python · Java · C++ · R · SQL · TypeScript
 
-[LinkedIn](https://www.linkedin.com/in/selormessey/) ·
+**Development**  
+React · FastAPI · Flask · REST APIs
 
-## Tech Stack
+**Data & ML**  
+Pandas · NumPy · scikit-learn · TensorFlow · Jupyter
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,ts,react,flask,fastapi,tensorflow,git,github,aws,linux" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SelormEssey&theme=github-dark-blue&hide_border=true"
-    alt="Selorm's GitHub streak"
-  />
-</p>
+**Tools**  
+Git · GitHub · AWS · Linux · Tableau
