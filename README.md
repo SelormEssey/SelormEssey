@@ -9,7 +9,7 @@ occasionally making music when I'm not debugging something.
 
 ---
 
-## Current direction
+## Interests
 
 **Human-Computer Interaction** · **AI & Data Science** · **Fintech**
 
