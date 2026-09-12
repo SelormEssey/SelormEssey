@@ -1,8 +1,8 @@
 # Hey, I'm Selorm 👋🏾
 
+exploring how technology is changing finance.  
 building human-centered technology.  
 working with data and intelligent systems.  
-exploring how technology is changing finance.  
 occasionally making music when I'm not debugging something.
 
 [LinkedIn](https://www.linkedin.com/in/selormessey/) · [Email](mailto:sessey100@gmail.com)
