@@ -11,7 +11,7 @@ occasionally making music when I'm not debugging something.
 
 ## Interests
 
-**Human-Computer Interaction** · **AI & Data Science** · **Fintech**
+**Fintech** · **AI & Data Science** · **Human-Computer Interaction**. 
 
 I'm especially interested in where these areas overlap, from intelligent interfaces to data-driven financial products.
 
